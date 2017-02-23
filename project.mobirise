@@ -647,7 +647,7 @@
           },
           "text1": "<strong>Address</strong><br><br>Boca Raton, Florida<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: jeff.thecreativebrain@gmil.com<br>\nPhone: 1.862.282.3550<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-warning\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text3": "<strong>Links</strong><br><br>"
         },
         {
           "_inherit": "social-buttons2",
@@ -675,31 +675,6 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-13",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "youtube": "mobirise",
-            "facebook": "mobrise",
-            "twitter": "mobirise",
-            "google": "mobirise",
-            "postToLoad": "2",
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_tags": [

@@ -92,7 +92,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#faaf40!important"
+              "color": "#e25041!important"
             }
           },
           "_name": "ext.menu",

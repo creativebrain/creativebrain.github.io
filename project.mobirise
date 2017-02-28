@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">the.creative.brain</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-p\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-11\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>OUR WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-1a\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>TV/VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD SERVICE SPECS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-p\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-6\"><span class=\"etl-icon icon-tools-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-11\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>CREATIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-1a\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>TV/VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-10\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD SERVICE SPECS</a></li>"
         },
         {
           "_tags": [
@@ -291,7 +291,7 @@
               "newWindow": false
             }
           },
-          "title5": "Production",
+          "title5": "TV &amp; Radio",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Video/Photo Creative Direction<br>Concept Development &amp; Production<br>Copywriting<br>Photography/Video Shoot Direction<br>TV/Radio/Video Production<br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -340,10 +340,10 @@
             "overlayOpacity": "1",
             "overlayColor": "#2e2e2e",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
-          "title": "OUR WORK",
+          "title": "CREATIVE",
           "text": "<p>See samples of our creative campaigns and cross-media projects.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },

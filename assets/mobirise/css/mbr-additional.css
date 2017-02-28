@@ -487,6 +487,7 @@ h6,
 }
 #header1-g .mbr-section-lead {
   font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
 }
 #features6-6 .btn {
   font-size: 12px;
@@ -502,6 +503,13 @@ h6,
   color: #fff;
 }
 #msg-box8-j .mbr-section-title {
+  color: #faaf40;
+}
+#msg-box8-18 .mbr-section-title,
+#msg-box8-18 p {
+  color: #fff;
+}
+#msg-box8-18 .mbr-section-title {
   color: #faaf40;
 }
 #msg-box8-o .mbr-section-title,

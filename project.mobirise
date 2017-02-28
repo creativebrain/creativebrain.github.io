@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "google-analytics": "",
     "cookiesAlert": ""
@@ -105,10 +105,10 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -142,7 +142,8 @@
             },
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "24px"
             }
           },
           "_anchor": "header1-g",
@@ -364,26 +365,357 @@
                 "thumb": "@PROJECT_PATH@/assets/images/wpcjd-089-march-madness-fp-2000x4150-800x1660.png",
                 "image": "@PROJECT_PATH@/assets/images/wpcjd-089-march-madness-fp-2000x4150.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rclm-10985-2-versions-2000x4378-800x1751.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rclm-10985-2-versions-2000x4378.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miller-tailgate-concept-3-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miller-tailgate-concept-3-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dch-xxx-for-life-poster-2000x2953-800x1181.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dch-xxx-for-life-poster-2000x2953.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-072-footbalpick-tailgate-2-2000x2030-800x812.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-072-footbalpick-tailgate-2-2000x2030.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-2000x4150-800x1660.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-2000x4150.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mono-joysofsummer-poster-2000x2897-800x1158.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mono-joysofsummer-poster-2000x2897.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dch-xxx-spring-corp-24x36-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dch-xxx-spring-corp-24x36-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dch-xxx-spring-concept-24x36-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dch-xxx-spring-concept-24x36-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/czag-048-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/czag-048-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/czag-048-1-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/czag-048-1-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brto-broadsheet-summerservice-2000x1775-800x710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brto-broadsheet-summerservice-2000x1775.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brto-adspec-focus-2000x4000-800x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brto-adspec-focus-2000x4000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beyercjd-xxx-spec-2000x4000-800x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beyercjd-xxx-spec-2000x4000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-071-cmas-list-2000x4150-800x1660.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-071-cmas-list-2000x4150.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x3820-800x1528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x3820.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x3131-800x1252.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x3131.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-2000x3471-800x1388.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17-2000x3471.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wfuv-09-cd-coverb-2000x1882-800x752.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wfuv-09-cd-coverb-2000x1882.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wfuv-09-cd-coverb-2000x1882-800x752.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wfuv-09-cd-coverb-2000x1882.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hartzband-003a-2000x3638-800x1455.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hartzband-003a-2000x3638.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/autd-may-pre-construction-2000x3612-800x1444.jpg",
+                "image": "@PROJECT_PATH@/assets/images/autd-may-pre-construction-2000x3612.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasta-sauce-label-800x746.png",
+                "image": "@PROJECT_PATH@/assets/images/pasta-sauce-label.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cmam-magnaeblast-2000x1227-800x490.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cmam-magnaeblast-2000x1227.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chi-480-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chi-480-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-091-march-madness-generic-300x600-2000x4000-800x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-091-march-madness-generic-300x600-2000x4000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-083-prezday-generic-banners5-2000x4000-800x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-083-prezday-generic-banners5-2000x4000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-056-generic-banners5-2000x4000-800x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-056-generic-banners5-2000x4000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-xxx-cmas-generic-banners4-2000x7500-800x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-xxx-cmas-generic-banners4-2000x7500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dchtc-001-retargeting-specs-2000x1665-800x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dchtc-001-retargeting-specs-2000x1665.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/halloween-flyer-2000x1208-800x483.png",
+                "image": "@PROJECT_PATH@/assets/images/halloween-flyer-2000x1208.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wpcjd-023-b-wfan-key-4-key-eblast-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wpcjd-023-b-wfan-key-4-key-eblast-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Digital",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lowdown-web-2000x1647-800x658.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lowdown-web-2000x1647.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Production",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pg20-2000x1218-800x487.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pg20-2000x1218.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Production",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pg8-2000x1218-800x487.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pg8-2000x1218.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Production",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/h2-cover-2000x2352-800x940.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h2-cover-2000x2352.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -395,6 +727,176 @@
             "showBullets": true
           },
           "_anchor": "gallery2-11",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-18",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/jeff/Library/Application%20Support/Mobirise.com/Mobirise/projectData/mbr-2000x1334.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#2e2e2e",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "VIDEO &amp; RADIO",
+          "text": "<p>See samples of our creative campaigns and cross-media projects.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/coK8wiA2-RY",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-01-07.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/IVaWehOUQlQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-05-51.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Pre-Roll",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/mYCDY9Qzs60",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-06-27.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/9IRqZ92ujgA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-07-03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/3RLnOoNgOYg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-07-46.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/DGtsDWKN5Do",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-08-09.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "TV",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/d-hQiFl5wkE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-09-36.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotion",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/4HAK23zogPQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-10-40.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotion",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/V6dhpSw4BBo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-11-15.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotion",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/iSiRQ_2khoA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-12-14.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Promotion",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/RRGjoM3xlkA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-28-17-12-48.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1a",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -428,7 +930,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "OUR TEAM<br>",
+          "title": "ABOUT<br>",
           "text": "<p><b>the.creative.brain</b> is made up of devoted team members that share an appreciation for the extraordinary talents of our coworkers and a passion for the results we produce for our clients. We believe remaining a tight and lean team gives us the ability to create meaningful, custom work while really getting to know our clients on a deep, personal level.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">When you partner with the.creative.brain, you partner with an entire team of talented professionals that work hard every day to grow your sales...&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Meet the team that leads the way.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -459,12 +961,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -631,7 +1133,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/the-creative-brain-logo-final-v-wht-128x143.png",
+              "src": "@PROJECT_PATH@/assets/images/the-creative-brain-logo-final-h-113x128.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -645,8 +1147,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br><br>Boca Raton, Florida<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: jeff.thecreativebrain@gmil.com<br>\nPhone: 1.862.282.3550<br>",
+          "text1": "<strong>Address</strong><br><br>Deerfield Beach, Florida<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: jeff.thecreativebrain@gmail.com<br>\nPhone: 1.862.282.3550<br>",
           "text3": "<strong>Links</strong><br><br>"
         },
         {
@@ -674,7 +1176,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -694,7 +1196,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 the.creative.brain | &nbsp;Cross Media Solutions."
+          "text": "Copyright (c) 2017 j.seanDesigns | &nbsp;Cross Media Solutions."
         }
       ]
     },
@@ -769,10 +1271,10 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -811,7 +1313,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 the.creative.brain | &nbsp;Cross Media Solutions."
+          "text": "Copyright (c) 2017 j.seanDesigns | &nbsp;Cross Media Solutions."
         },
         {
           "_tags": [
